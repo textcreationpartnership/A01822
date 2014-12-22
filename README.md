@@ -36,98 +36,40 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Two treatises concerning the preseruation of eie-sight. The first written by Doctor Baily sometimes 
+
+1. To the Reader.
+
 #####Body#####
 
-1. To preſerue the ſight by Medicines.
+1. A breefe Treatiſe concerning the preſeruation of the eye ſight.
 
-    _ Of Strabiſmus.
+    _ To preſerue the ſight by Medicines.
 
-    _ A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
+    _ Inward Medicines.
 
-    _ Another that doth conſerue the ſight.
+1. A Treatiſe of the principall diſeaſes of the eyes, gathered out of Fernelius and Iohn Riolamus Doctors of Phiſicke
 
-    _ An excellent oyntment for the eyes.
+    _ Of the Webbe of the Eye. Chap. 3.
 
-1. Inward Medicines.
+    _ Of the Hypopion or matter vnder the Cornea. Chap. 4.
 
-    _ Of Strabiſmus.
+      * Of Strabiſmus.
 
-    _ A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
+    _ Of Amauroſis, or Gutta Serena, or Obfuſcatio, starke blindnes, or Hallucinatio. Chap. 5.
 
-    _ Another that doth conſerue the ſight.
+    _ Of Opthalmia, or infl•mation of the aduata, or coniunctiua. Chap. 6.
 
-    _ An excellent oyntment for the eyes.
+    _ Of the ſuffuſion of ſight called Cataracta. Chap. 7.
 
-1. Of the Webbe of the Eye. Chap. 3.
+    _ Of the Aegilops or the lacrimall Fiſtula. Chap. 8.
 
-    _ Of Strabiſmus.
+    _ Generall rules for the conſeruation of the ſight. Chap. 9.
 
-    _ A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
+      * A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
 
-    _ Another that doth conſerue the ſight.
+      * Another that doth conſerue the ſight.
 
-    _ An excellent oyntment for the eyes.
-
-1. Of the Hypopion or matter vnder the Cornea. Chap. 4.
-
-    _ Of Strabiſmus.
-
-    _ A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
-
-    _ Another that doth conſerue the ſight.
-
-    _ An excellent oyntment for the eyes.
-
-1. Of Amauroſis, or Gutta Serena, or Obfuſcatio, starke blindnes, or Hallucinatio. Chap. 5.
-
-    _ Of Strabiſmus.
-
-    _ A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
-
-    _ Another that doth conſerue the ſight.
-
-    _ An excellent oyntment for the eyes.
-
-1. Of Opthalmia, or infl•mation of the aduata, or coniunctiua. Chap. 6.
-
-    _ Of Strabiſmus.
-
-    _ A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
-
-    _ Another that doth conſerue the ſight.
-
-    _ An excellent oyntment for the eyes.
-
-1. Of the ſuffuſion of ſight called Cataracta. Chap. 7.
-
-    _ Of Strabiſmus.
-
-    _ A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
-
-    _ Another that doth conſerue the ſight.
-
-    _ An excellent oyntment for the eyes.
-
-1. Of the Aegilops or the lacrimall Fiſtula. Chap. 8.
-
-    _ Of Strabiſmus.
-
-    _ A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
-
-    _ Another that doth conſerue the ſight.
-
-    _ An excellent oyntment for the eyes.
-
-1. Generall rules for the conſeruation of the ſight. Chap. 9.
-
-    _ Of Strabiſmus.
-
-    _ A Collirium Democriti which doth cleare the ſight and preſerue the ſame.
-
-    _ Another that doth conſerue the ſight.
-
-    _ An excellent oyntment for the eyes.
+      * An excellent oyntment for the eyes.
 
 **Types of content**
 
